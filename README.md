@@ -1,1 +1,3 @@
-# Multiple-Linear-with-Python
+For beginners : Cleaning the data, EDA, and Mutliple-Linear
+
+Hope it will help you!
